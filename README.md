@@ -15,7 +15,8 @@ Extract source code urls from a PDF file.
 
 # For people who don't want to install Go or don't want build from scratch.
 - Run the binary in the repo (./PDFExtract with the appropriate command line args)
-- Make sure to install xpdfreader command tools.
+- For Windows users there is a PDFExtract.exe
+- Make sure to install xpdfreader command tools as per your platform. (http://www.xpdfreader.com/download.html)
 
 # Future Direction
 - To add recommendation support.
