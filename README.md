@@ -13,7 +13,7 @@ Extract source code urls from a PDF file.
 - Clone the repo and run go build.
 - To run: ./PDFExtract -url https://arxiv.org/pdf/2005.14187v1.pdf -download true or go run main.go ...
 
-# For people who don't want to install Go or don't want build from scratch.
+# For people who don't want to install Go or don't want to build from scratch.
 - Run the binary in the repo (./PDFExtract with the appropriate command line args)
 - For Windows users there is a PDFExtract.exe
 - Make sure to install xpdfreader command tools as per your platform. (http://www.xpdfreader.com/download.html)
